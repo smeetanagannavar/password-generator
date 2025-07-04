@@ -1,0 +1,24 @@
+{
+  "name": "password-generator-1",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smeetanagannavar/password-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smeetanagannavar/password-generator/issues"
+  },
+  "homepage": "https://github.com/smeetanagannavar/password-generator#readme",
+  "description": "",
+  "devDependencies": {
+    "vite": "^7.0.2"
+  }
+}
